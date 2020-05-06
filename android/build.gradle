@@ -32,7 +32,7 @@ repositories {
 }
 
 dependencies {
-    implementation fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
+    compile fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
     compile 'com.facebook.react:react-native:+'
 
     // compile 'com.qq.mta:mta:3.4.7-release'
