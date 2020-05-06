@@ -1,7 +1,7 @@
 {
-  "name": "react-native-bc-mta",
-  "author": "baiachen",
-  "version": "1.0.1",
+  "name": "react-native-mta",
+  "author": "https://github.com/AbhiSNSoft",
+  "version": "1.0.2",
   "keywords": [
     "react-native",
     "tencent",
@@ -10,10 +10,10 @@
   ],
   "description": "react native for tencent mta.",
   "license": "MIT",
-  "homepage": "https://github.com/baiachen/react-native-mta",
+  "homepage": "https://github.com/AbhiSNSoft/react-native-mta",
   "repository": {
     "type": "git",
-    "url": "git@github.com:baiachen/react-native-mta.git"
+    "url": "git@github.com:AbhiSNSoft/react-native-mta.git"
   },
   "main": "index.js",
   "peerDependencies": {
