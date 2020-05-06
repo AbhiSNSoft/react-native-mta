@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.source_files = 'ios/RNMta.{h,m}'
   s.requires_arc = true
   s.frameworks = "AdSupport", "CFNetwork", "SystemConfiguration", "CoreTelephony"
-  s.libraries = "libz", "libsqlite3"
+  s.libraries = "z", "sqlite3"
 
   s.dependency 'React'
 end
